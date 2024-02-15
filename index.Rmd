@@ -1,0 +1,46 @@
+---
+pagetitle: "Statistics and Data Science Conference"
+author: "by Gianluca Sottile"
+mail: "gianluca.sottile@unipa.it"
+github: "gianluca-sottile"
+home: "https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024"
+---
+
+
+<br>
+
+
+<!-- <center> -->
+<!-- ![](R_logo.png) -->
+<!-- </center> -->
+<!-- <br><br> -->
+<!-- <img src="R_logo.png" width=400 height=350 align="left"/> -->
+<!-- <p align="center"> -->
+<!-- ![](R_logo.png) -->
+<!-- </p> -->
+
+```{r fig.width=7, fig.height=7, fig.align='center',cache=TRUE,fig.cap="",fig.asp=0.50,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("Logo vert.png")
+grid.raster(img)
+```
+
+
+<br>
+
+
+The SIS group Statistics and Data Science aims at fostering the statisticsal skills in the scientific research and teaching in the context of Data Science. Its goals are:
+
+- to constitute a reference within the SIS on Data Science themes with the aim of establishing contacts, interactions, and systematic relationships with other national and international statistical societies and with other academic and non-academic communities interested in Data Science from different perspectives;
+- to promote and coordinate, through research projects and workshops, theoretical and applied research with emphasis on the role of Statistics in Data Science;
+- to promote contributions and specialized sessions on Data Science topics within the institutional events of SIS;
+- to support those who promote, coordinate, or participate in the development of Data Science training programs at any level and in particular in the universities and to promote the organization of courses, schools, or tutorials within workshops;
+- to promote the dissemination of the scientific activities of its members, and of work and research opportunities in Data Science.
+
+
+<!-- Hello, Website! -->
+
+<!-- For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html. -->
+
+<!-- Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown. -->

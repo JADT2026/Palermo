@@ -1,0 +1,111 @@
+---
+pagetitle: "About This Conference"
+---
+
+<br>
+
+# About This Conference {#buttons .tabset .tabset-fade .tabset-pills}
+## Conference Topics
+***
+Researchers and practitioners interested in Statistics and Data Science and the related methodological and applied fields are invited to submit papers for the Third Meeting of the Statistics and Data Science group. The interplay between Statistics and Data Science is gaining more and more interest not only for statisticians but also for Physicists and Computer Scientists. We call for papers treating themes related to the modelling and analysis of complex data and proposing new or ad hoc approaches pertaining to the following aims:
+
+- _Computational Statistics_
+- _Data Ethics & Fairness in Machine Learning Data Stream Analysis_
+- _Data Visualization_
+- _Deep Learning_
+- _Dimensional Reduction_
+- _Education & Data Literacy_
+- _Ensemble methods for classification Explainable AI_
+- _Geometrical Data Analysis_
+- _Learning with Imbalanced Data_
+- _Mining Complex Data_
+- _Practice & Applications_
+- _Prediction & Classification_
+- _Preference Learning_
+- _Textual Data Analysis_
+- _Unsupervised Models_
+- _Variational Inference_
+
+## Organizing Team
+***
+**Program Committee**
+
+- Rosanna Verde, Università of Campania - Luigi Vanvitelli, Italy
+- Paola Cerchiello, University of Pavia, Italy
+- Leonardo Egidi, University of Trieste, Italy
+- Antonella Plaia, University of Palermo, Italy
+- Silvia Salini, University of Milan, Italy
+- Claudio Ardagna, University of Milano, Italy
+- Pierpaolo Brutti, University of Roma - La Sapienza, Italy
+- Marcello Chiodi, University of Palermo, Italy
+- Claudio Conversano, University of Cagliari, Italy
+- Antonio D'Ambrosio, University of Napoli - Federico II, Italy
+- Salvatore Micciche'
+- Cinzia Viroli, University of Bologna, Italy
+
+**Local organizing committee**
+
+- Antonella Plaia, University of Palermo - DSEAS, Italy
+- Antonino Abbruzzo, University of Palermo - DSEAS, Italy
+- Giada Adelfio, University of Palermo - DSEAS, Italy
+- Alessandro Albano, University of Palermo - DSEAS, Italy
+- Luigi Augugliaro, University of Palermo - DSEAS, Italy
+- Giovanni Boscaino, University of Palermo - DSEAS, Italy
+- Nicoletta D'Angelo, University of Palermo - DSEAS, Italy
+- Chiara Di Maria, University of Palermo, Italy
+- Angelo Mineo, University of Palermo - DSEAS, Italy
+- Mariangela Sciandra, University of Palermo - DSEAS
+- Andrea Simonetti, University of Palermo - DSEAS
+- Gianluca Sottile, University of Palermo - DSEAS, Italy
+- Michele Tumminello, University of Palermo - DSEAS, Italy
+
+## Venue
+***
+**Polo Didattico** - _Aule 10-12, Aula Seminari C, Aula Multimediale C_
+
+Viale delle Scienze ed. 19
+
+90128, Palermo (PA), Italy
+
+<br>
+
+```{r fig.width=10, fig.height=8, fig.align='center',cache=TRUE,fig.cap="",fig.asp=0.50,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("ED19_fronte.png")
+grid.raster(img)
+```
+
+```{r fig.width=10, fig.height=8, fig.align='center',cache=TRUE,fig.cap="",fig.asp=0.50,echo=FALSE}
+library(png)
+library(grid)
+img <- readPNG("ED19.png")
+grid.raster(img)
+```
+
+## Accomodation
+***
+Please send an email to booking@interludehotels.it and cite the code UNIPA to book an affiliated hotel. 
+
+<br>
+
+```{r cache = TRUE, echo = FALSE}
+knitr::include_url("https://www.google.com/maps/d/u/1/embed?mid=1CvbabtfTBo2DLd4YoGgvhLJJgL3qxtk&ehbc=2E312F", height = 480)
+```
+<!-- <iframe src="https://www.google.com/maps/d/embed?mid=1Ehlyqev4yBYaTohiHKy_RI3oyW1t7QM&ehbc=2E312F" width="640" height="480"></iframe> -->
+
+## Hackathon
+***
+Hack4SDS è la seconda edizione dell'hackathon nazionale del Gruppo di Statistica & Data Science (SDS) della Società Italiana di Statistica (SIS), in programma il 23-24 Marzo 2024, della durata di 48h. I migliori team della classifica temporanea saranno invitati a presentare i loro output durante il convegno "Statistic and Data Science Conference" il 12 Aprile a Palermo.
+
+L'evento, per team, sarà aperto a tutti gli studenti universitari con la passione nell'analisi dei dati e sarà focalizzato su un'analisi riguardante dati economici.
+
+L'obiettivo è far cimentare gli studenti su dataset reali e ingaggiarli in una competizione che permetta loro di mettere in mostra le proprie competenze nell'analisi e nella modellazione dei dati.
+
+Partecipando a Hack4SDS come player potrai analizzare open Data e collaborare in modo innovativo con i membri del tuo team.
+
+Sponsorizzando una gara di Hack4SDS potrai invece aumentare la visibilità del tuo brand all'interno della comunità Data Science italiana.
+
+<br>
+
+Clicca [qui](https://journal.opendataplayground.com/hack4sds-2024/) per maggiori informazioni 

@@ -1,0 +1,37 @@
+name: "SDS 2024 APRIL 11-12, PALERMO"
+output_dir: "."
+navbar:
+  title: "Statistics and Data Science Conference"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About"
+      icon: fa-info-circle
+      href: about.html
+    - text: "Program"
+      icon: fa-bars
+      menu:
+        - text: "Thursday, April 11"
+          menu:
+          - text: "Lesson 1"
+            href: about.html
+        - text: "Friday, April 11"
+          menu:
+          - text: "Lesson 5"
+            href: about.html
+
+          
+output:
+  html_document:
+    theme: flatly
+    highlight: pygments
+    df_print: kable
+    toc: true
+    toc_float: true
+    toc_depth: 2
+    include:
+      after_body: footer.html
+      in_header: header.html
+    css: style.css
+    self_contained: true
