@@ -1,5 +1,5 @@
 ---
-pagetitle: "Statistics and Data Science Conference"
+pagetitle: "SDS 2024"
 author: "by Gianluca Sottile"
 mail: "gianluca.sottile@unipa.it"
 github: "gianluca-sottile"

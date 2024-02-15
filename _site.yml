@@ -1,7 +1,7 @@
 name: "SDS 2024 APRIL 11-12, PALERMO"
 output_dir: "."
 navbar:
-  title: "Statistics and Data Science Conference"
+  title: "SDS 2024"
   left:
     - text: "Home"
       icon: fa-home
