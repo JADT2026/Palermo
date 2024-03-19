@@ -1,0 +1,46 @@
+---
+pagetitle: "10:50 / 12:05 - Invited 1"
+---
+
+
+<br>
+
+
+# Complex data: new methodologies and applications {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Organizer: Francesca Greselin
+### Discussant: TBA
+
+<br>
+
+## Link selection in binary regression models with the Model Confidence Set
+***
+#### *Michele La Rocca, Marcella Niglio and Marialuisa Restaino*
+
+<br>
+
+**Abstract:** The choice of the link function in Generalized Linear Regression models may be a key aspect when the dependent variable is binary and imbalanced. After the introduction of this class of models and a brief presentation of some asymmetric distribution functions that are used in the literature to obtain asymmetric links, the paper proposes the use of the Model Confidence Set as a tool to select, among can- didate link functions, the “best set” for the data. A simulation study gives empirical evidence of the Model Confidence Set performance when asymmetric links are used to model imbalanced binary data.
+
+Click [here]() to view the abstract.
+
+## A cluster-weighted model for COVID-19 hospital admissions
+***
+#### *Daniele Spinelli, Paolo Berta, Salvatore Ingrassia and Giorgio Vittadini*
+
+<br>
+
+**Abstract:** We propose a cluster-weighted model to analyze the mortality and the latent heterogeneity of COVID-19 patients. We focus on administrative data col- lected during in the earliest phases of the COVID-19 pandemic. Results highlight that a model-based clustering approach is helpful to detect unobserved clusters of COVID-19 patients.
+
+Click [here]() to view the abstract.
+
+## Multi-class text classification of news data
+***
+#### *Maurizio Romano and Maria Paola Priola*
+
+<br>
+
+**Abstract:** Several Multi-class text classification (MCC) strategies, namely One- Vs-Rest (OVA), One-Vs-One (OVO), Best-of-Best (BOB), and Error-Correcting- Output-Codes (ECOC), are compared in terms of accuracy and computational ef- ficiency. Each strategy is implemented utilizing several classifiers such as Na ̈ıve Bayes, Random Forest, Logistic Regression, Neural Networks, Linear Discriminant Analysis, Support Vector Machine, and the recently-introduced Threshold-based Na ̈ıve Bayes (Tb-NB). We run a horse race involving the analysis of the 20News- Group dataset, well known in the literature for its complexity. Our results high- light the importance of choosing the right classifier whilst pairing it with an optimal strategy, providing valuable insights for optimizing classifier performance in MCC classification tasks considering both environmental implications and the need for accurate predictions.
+
+Click [here]() to view the abstract.

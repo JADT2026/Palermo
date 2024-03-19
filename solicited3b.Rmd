@@ -1,0 +1,46 @@
+---
+pagetitle: "16:50 / 18:05 - Solicited 3 - B"
+---
+
+
+<br>
+
+
+# Functional Data Analysis in Action  {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Organizer: Alessia Caponera
+### Chair: TBA
+
+<br>
+
+## Functional Linear Discriminant Analysis for Misaligned Surfaces
+***
+#### *Tomas Masak*
+
+<br>
+
+**Abstract:** The task of speech command classification is studied in the functional data analysis context. The raw audio signals are transformed into log-spectograms, and the resulting bivariate random surfaces are smoothed and aligned by a functional registration procedure in order to adjust for different speech velocities among the speakers. The aligned and smoothed log-spectograms are considered a random sample and classified using the functional linear discriminant analysis. A comparison is made against two corresponding approaches: one equivalent but not utilizing any functional registration steps, and another utilizing classical audio pre-processing steps in order to extract a set of features to be used for classification in a non-functional context.
+
+Click [here]() to view the abstract.
+
+## Leveraging weighted functional data analysis to estimate earthquake-induced ground motion
+***
+#### *Teresa Bortolotti, Riccardo Peli, Giovanni Lanzano, Sara Sgobba and Alessandra Menafoglio*
+
+<br>
+
+**Abstract:** Ground motion models are fundamental tools for seismic hazard assessment, providing estimates of earthquake-induced ground motion based on seismic variables. A novel approach grounding on weighted functional data analysis is employed to extend a scalar ground motion model for Italy to the functional context. By incorporating observation-specific functional weights in the estimation routine, we aim to improve the accuracy and stability of model calibration in the presence of incomplete functional data. Through a simulation study, we show the effectiveness of the proposed methodology in enhancing the estimation accuracy and reducing variability compared to the traditional approach. Our findings highlight the potential of weighted functional data analysis to enhance the ground motion estimates and seismic hazard assessment, offering valuable insights for civil protection planning.
+
+Click [here]() to view the abstract.
+
+## Functional autoregressive processes on a spherical domain for global aircraft-based atmospheric measurements
+***
+#### *Almond Stöcker and Alessia Caponera*
+
+<br>
+
+**Abstract:** Motivated by global analysis of aircraft-based measurements of air pollutants and climate variables, and specifically the COVID-19 pandemic’s possible impact on ozone concentrations, a functional autoregressive model is proposed to capture global spatio-temporal variability, incorporating solar radiation cycles. Efficient estimation techniques are developed and means of suitable visualization demonstrated, paving the way for similar analyses in the future.
+
+Click [here]() to view the abstract.

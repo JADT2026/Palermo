@@ -29,9 +29,6 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
-<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
-<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/font-awesome-6.4.2/css/all.min.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-6.4.2/css/v4-shims.min.css" rel="stylesheet" />
@@ -305,69 +302,6 @@ $(document).ready(function () {
 
 
 
-<style type="text/css">
-
-#TOC {
-  margin: 25px 0px 20px 0px;
-}
-@media (max-width: 768px) {
-#TOC {
-  position: relative;
-  width: 100%;
-}
-}
-
-@media print {
-.toc-content {
-  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
-  float: right;
-}
-}
-
-.toc-content {
-  padding-left: 30px;
-  padding-right: 40px;
-}
-
-div.main-container {
-  max-width: 1200px;
-}
-
-div.tocify {
-  width: 20%;
-  max-width: 260px;
-  max-height: 85%;
-}
-
-@media (min-width: 768px) and (max-width: 991px) {
-  div.tocify {
-    width: 25%;
-  }
-}
-
-@media (max-width: 767px) {
-  div.tocify {
-    width: 100%;
-    max-width: none;
-  }
-}
-
-.tocify ul, .tocify li {
-  line-height: 20px;
-}
-
-.tocify-subheader .tocify-item {
-  font-size: 0.90em;
-}
-
-.tocify .list-group-item {
-  border-radius: 0px;
-}
-
-
-</style>
-
-
 
 </head>
 
@@ -375,16 +309,6 @@ div.tocify {
 
 
 <div class="container-fluid main-container">
-
-
-<!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row">
-<div class="col-xs-12 col-sm-4 col-md-3">
-<div id="TOC" class="tocify">
-</div>
-</div>
-
-<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -425,18 +349,106 @@ div.tocify {
   </a>
   <ul class="dropdown-menu" role="menu">
     <li class="dropdown-submenu">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Thursday, April 11</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Day 1 - Thursday, 11th April</a>
       <ul class="dropdown-menu" role="menu">
         <li>
-          <a href="about.html">Lesson 1</a>
+          <a href="keynote1.html">09:30 / 10:30 - Key Note 1</a>
+        </li>
+        <li>
+          <a href="invited1.html">10:50 / 12:05 - Invited 1</a>
+        </li>
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">12:10 / 13:20 - Solicited 1</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="solicited1a.html">A. Data Science for Official Statistics</a>
+            </li>
+            <li>
+              <a href="solicited1b.html">B.	Sustainable Artificial Intelligence in Finance</a>
+            </li>
+            <li>
+              <a href="solicited1c.html">C.	Young SIS</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="invited4.html">16:35 / 17:50 - Invited 4</a>
+        </li>
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">17:50 / 19:00 - Contributed</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="contributed1.html">C1</a>
+            </li>
+            <li>
+              <a href="contributed2.html">C2</a>
+            </li>
+            <li>
+              <a href="contributed3.html">C3</a>
+            </li>
+            <li>
+              <a href="contributed7.html">C7</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </li>
     <li class="dropdown-submenu">
-      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Friday, April 11</a>
+      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Day 2 - Friday, 12th April</a>
       <ul class="dropdown-menu" role="menu">
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">08:40 / 09:50 - Contributed</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="contributed4.html">C4</a>
+            </li>
+            <li>
+              <a href="contributed5.html">C5</a>
+            </li>
+            <li>
+              <a href="contributed6.html">C6</a>
+            </li>
+            <li>
+              <a href="contributed8.html">C8</a>
+            </li>
+          </ul>
+        </li>
         <li>
-          <a href="about.html">Lesson 5</a>
+          <a href="keynote2.html">09:55 / 10:55 - Key Note 2</a>
+        </li>
+        <li>
+          <a href="invited3.html">11:15 / 12:30 - Invited 3</a>
+        </li>
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">14:30 / 15:40 - Solicited 2</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="solicited2a.html">A. From Data Analysis to Data Science</a>
+            </li>
+            <li>
+              <a href="solicited2b.html">B.	Statistical methods for textual data</a>
+            </li>
+            <li>
+              <a href="solicited2c.html">C.	Quantum neouromorphic approaches to data analysis and inference</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="invited2.html">15:40 / 16:50 - Invited 2</a>
+        </li>
+        <li class="dropdown-submenu">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">16:50 / 18:05 - Solicited 3</a>
+          <ul class="dropdown-menu" role="menu">
+            <li>
+              <a href="solicited3a.html">A.	Data analysis methods for data in non-Euclidean spaces</a>
+            </li>
+            <li>
+              <a href="solicited3b.html">B.	Functional Data Analysis in Action</a>
+            </li>
+            <li>
+              <a href="solicited3c.html">C.	Bayesian Inference for Graphical Models</a>
+            </li>
+          </ul>
         </li>
       </ul>
     </li>
@@ -589,8 +601,6 @@ maggiori informazioni</p>
 &nbsp;
 
 
-</div>
-</div>
 
 </div>
 
@@ -623,35 +633,6 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
-<script>
-$(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
-
-    // move toc-ignore selectors from section div to header
-    $('div.section.toc-ignore')
-        .removeClass('toc-ignore')
-        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
-
-    // establish options
-    var options = {
-      selectors: "h1,h2",
-      theme: "bootstrap3",
-      context: '.toc-content',
-      hashGenerator: function (text) {
-        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
-      },
-      ignoreSelector: ".toc-ignore",
-      scrollTo: 0
-    };
-    options.showAndHide = true;
-    options.smoothScroll = true;
-
-    // tocify
-    var toc = $("#TOC").tocify(options).data("toc-tocify");
-});
-</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

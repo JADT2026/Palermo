@@ -1,0 +1,56 @@
+---
+pagetitle: "16:50 / 18:05 - Solicited 3 - A"
+---
+
+
+<br>
+
+
+# Data analysis methods for data in non-Euclidean spaces {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Organizer: Antonio Balzanella
+### Chair: TBA
+
+<br>
+
+## Riemannian Statistics for Any Type of Data
+***
+#### *Oldemar Rodríguez Rojas*
+
+<br>
+
+**Abstract:** This paper introduces a novel approach to statistics and data analysis, departing from the conventional assumption of data residing in Euclidean space to consider a Riemannian Manifold. The challenge lies in the absence of vector space operations on such manifolds. Pennec X. et al. in their book Riemannian Geometric Statistics in Medical Image Analysis proposed analyzing data on Riemannian manifolds through geometry, this approach is effective with structured data like medical images, where the intrinsic manifold structure is apparent. Yet, its applicability to general data lacking implicit local distance notions is limited. We propose a solution to generalize Riemannian statistics for any type of data.
+
+Click [here]() to view the abstract.
+
+## PAM clustering algorithm for ATR-FTIR spectral data selection: an application to multiple sclerosis
+***
+#### *Francesca Condino, Maria Caterina Crocco and Rita Guzzi*
+
+<br>
+
+**Abstract:** The analysis of ATR-FTIR spectral data is more and more frequent in medical literature, since it often provides useful support for disease discrimination and early diagnosis for a number of pathologies, such as Multiple Sclerosis (MS). One of the main problem in this field is to identify the more informative features among a great number of possible candidates. Here, we propose a novel approach to perform feature selection based on redundant information among spectral data. In particular, we consider the Partition Around Medoids (PAM) algorithm to clusterize correlation matrix, in order to obtain groups of variables (wavenumbers) having similar pattern of pairwise dependence. Then, only the obtained medoids will be considered in the subsequent statistical methods for disease prediction.
+
+Click [here]() to view the abstract.
+
+## Random Survival Forest for Censored Functional Data
+***
+#### *Giuseppe Loffredo, Elvira Romano and Fabrizio Maturo*
+
+<br>
+
+**Abstract:** Functional Random Survival Forest (FRSF) is an extended version of the Survival Random Forest (SRF) algorithm specifically developed to incorporate functional data as predictors in survival analysis. Inspired by a recent study, where a supervised classification method via a combined use of functional data analysis and tree-based methods is proposed, innovative functional splitting rules are introduced within FRSF by introducing censored functional data, enabling the generation of functional predictions even in the presence of complex or unknown relationships in the data. These novel splitting rules are carefully designed to capture the essential features and patterns inherent in the functional predictors. By leveraging these functional indices, the predictive capabilities of the SRF algorithm are significantly enhanced, resulting in more accurate and reliable predictions. To generate the final prediction, the individual predictions are aggregated from all the trees in the forest. This ensemble approach leverages the collective knowledge of forecasts trees and incorporates the unique aspects of functional data, leading to improved performance in the prediction process.
+
+Click [here]() to view the abstract.
+
+## Advancing credit card fraud detection with innovative class partitioning and feature selection technique
+***
+#### *Mohammed Sabri, Antonio Balzanella and Rosanna Verde*
+
+<br>
+
+**Abstract:** In the domain of credit card fraud detection, the application of supervised learning methodologies has been a prevalent approach. These methods rely on the analysis of historical transaction data to identify patterns of fraudulent activity. However, this approach is met with challenges due to the dynamic nature of consumer behavior and the continuous evolution of fraudster strategies. To overcome these challenges, this study proposes a novel model that incorporates both supervised and unsupervised learning techniques, along with an innovative feature selection method, to improve fraud detection capabilities. The integration of unsupervised K-means clustering allows for the identification of new, potentially fraudulent patterns within the data that were previously unrecognized. This phase is followed by a strategic feature selection process, which enhances the development of an advanced K-nearest neighbor algorithm. This algorithm is improved through informations obtained from the initial unsupervised learning phase. The empirical evaluation of this approach demonstrates its superiority in detecting fraudulent transactions, indicating a significant enhancement in detection accuracy.
+
+Click [here]() to view the abstract.

@@ -1,0 +1,55 @@
+---
+pagetitle: "17:50 / 19:00 - Contributed - C7"
+---
+
+
+<br>
+
+
+# TBA  {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Chair: TBA
+
+<br>
+
+## Biclustering of discrete data by extended finite mixtures of latent trait models
+***
+#### *Dalila Failli, Maria Francesca Marino and Francesca Martella*
+
+<br>
+
+**Abstract:** We aim at performing a joint clustering of units and variables in a binary data matrix in a biclustering perspective. In this framework, units are partitioned into clusters (components) via a finite mixture approach; in each component, variables are partitioned into clusters (segments) by adopting a flexible specification of the linear predictor. Dependence between variables is modeled via a multidimensional, continuous, latent trait. The proposed model is applied to the Regensburg Pediatric Appendicitis data set, with the aim of identifying homogeneous groups of pediatric patients with respect to subsets of clinical features.
+
+Click [here]() to view the abstract.
+
+## Sensitivity mapping as a tool to support siting of offshore wind farms and increase citizens’ acceptability
+***
+#### *Giovanna Cilluffo, Gianluca Sottile, Laura Ciriminna, Geraldina Signa, Agostino Tomasello and Salvatrice Vizzini*
+
+<br>
+
+**Abstract:** Wind power is one of the fastest growing renewable energy technologies. Environmental impact assessment is crucial for the sustainable development of offshore wind farms (OWF). One of the objectives of the Wind In My Backyard project is to understand and find ways to raise public understanding and engagement with wind power. This preliminary study focuses on the island of Pantelleria. Ecological niche models were estimated for three target marine species (Caretta caretta, Stenella coeruleoalba and Tursiops truncates). An additive value model was used to produce a sensitivity map. ENMs showed good predictive performance. The sensitivity map was able to identify potential sensitive areas. Our study may be useful for the identification of potential sensitive areas, drive selection of suitable sites for wind farm installation and improving citizens' understanding of the complex processes involved in marine spatial planning
+
+Click [here]() to view the abstract.
+
+## Seismic events classification through latent class regression models for point processes
+***
+#### *Giada Lo Galbo, Giada Adelfio and Marcello Chiodi*
+
+<br>
+
+**Abstract:** We are trying to identify sub-processes of seismic events from the point processes’ point of view and according to the latent class regression approach. Each seismic event is classified as membership of one of the 4 identified sub-classes of seismic sequences, each defined by particular and well-defined characteristics. So far, seismic sub-sequences have been identified and described according to several declustering methods. In this application, we show how sub-processes can be identified starting from the definition of a spatio-temporal intensity function for point processes, assuming independence of the past.
+
+Click [here]() to view the abstract.
+
+## Determining the optimal number of clusters through Symmetric Non-Negative Matrix Factorization
+***
+#### *Agostino Stavolo, Maria Gabriella Grassia, Marina Marino and Rocco Mazza*
+
+<br>
+
+**Abstract:** Cluster analysis, as a form of unsupervised learning, has been developed to group observations by leveraging application-specific similarity measures. This study investigates matrix factorization techniques, with a specific focus on analyzing lexical tables within the framework of term-document matrices. Symmetric Non-Negative Matrix Factorization (SNMF) takes center stage as an effective tool for clustering operations. The primary challenge addressed is the automated determination of the optimal number of clusters.
+
+Click [here]() to view the abstract.

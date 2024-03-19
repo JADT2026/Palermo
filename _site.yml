@@ -12,78 +12,74 @@ navbar:
     - text: "Program"
       icon: fa-bars
       menu:
-        - text: "Thursday, 11th April"
+        - text: "Day 1 - Thursday, 11th April"
           menu:
-          - text: "Day 1"
+          - text: "09:30 / 10:30 - Key Note 1"
+            href: keynote1.html
+          - text: "10:50 / 12:05 - Invited 1"
+            href: invited1.html
+          - text: "12:10 / 13:20 - Solicited 1"
             menu:
-            - text: "Key Note 1"
-              href: about.html
-            - text: "Invited 1 Complex data: new methodologies and applications"
-              href: about.html
-            - text: "Solicited 1"
-              menu:
-              - text: "A. Data Science for Official Statistics"
-                href: about.html
-              - text: "B.	Sustainable Artificial Intelligence in Finance"
-                href: about.html
-              - text: "C.	Young SIS"
-                href: about.html
-            - text: "Invited 4 International Statistical Societies"
-              href: about.html
-            - text: "Contributed"
-              menu:
-              - text: "C3"
-                href: about.html
-              - text: "C7"
-                href: about.html
-              - text: "C1"
-                href: about.html
-              - text: "C2"
-                href: about.html
-        - text: "Friday, 12th April"
+            - text: "A. Data Science for Official Statistics"
+              href: solicited1a.html
+            - text: "B.	Sustainable Artificial Intelligence in Finance"
+              href: solicited1b.html
+            - text: "C.	Young SIS"
+              href: solicited1c.html
+          - text: "16:35 / 17:50 - Invited 4"
+            href: invited4.html
+          - text: "17:50 / 19:00 - Contributed"
+            menu:
+            - text: "C1"
+              href: contributed1.html
+            - text: "C2"
+              href: contributed2.html
+            - text: "C3"
+              href: contributed3.html
+            - text: "C7"
+              href: contributed7.html
+        - text: "Day 2 - Friday, 12th April"
           menu:
-          - text: "Day 2"
+          - text: "08:40 / 09:50 - Contributed"
             menu:
-            - text: "Contributed"
-              menu:
-              - text: "C4"
-                href: about.html
-              - text: "C5"
-                href: about.html
-              - text: "C6"
-                href: about.html
-              - text: "C8"
-                href: about.html
-            - text: "Key Note 2"
-              href: about.html
-            - text: "Invited 3 Data science and dataspaces: challenges, results, and next steps"
-              href: about.html
-            - text: "Solicited 2"
-              menu:
-              - text: "A. From Data Analysis to Data Science"
-                href: about.html
-              - text: "B.	Statistical methods for textual data"
-                href: about.html
-              - text: "C.	Quantum neouromorphic approaches to data analysis and inference"
-                href: about.html
-            - text: "Invited 2 FISICA STATISTICA"
-              href: about.html
-            - text: "Solicited 3"
-              menu:
-              - text: "A.	Data analysis methods for data in non-Euclidean spaces"
-                href: about.html
-              - text: "B.	Functional Data Analysis in Action"
-                href: about.html
-              - text: "C.	Bayesian Inference for Graphical Models"
-                href: about.html
-          
+            - text: "C4"
+              href: contributed4.html
+            - text: "C5"
+              href: contributed5.html
+            - text: "C6"
+              href: contributed6.html
+            - text: "C8"
+              href: contributed8.html
+          - text: "09:55 / 10:55 - Key Note 2"
+            href: keynote2.html
+          - text: "11:15 / 12:30 - Invited 3"
+            href: invited3.html
+          - text: "14:30 / 15:40 - Solicited 2"
+            menu:
+            - text: "A. From Data Analysis to Data Science"
+              href: solicited2a.html
+            - text: "B.	Statistical methods for textual data"
+              href: solicited2b.html
+            - text: "C.	Quantum neouromorphic approaches to data analysis and inference"
+              href: solicited2c.html
+          - text: "15:40 / 16:50 - Invited 2"
+            href: invited2.html
+          - text: "16:50 / 18:05 - Solicited 3"
+            menu:
+            - text: "A.	Data analysis methods for data in non-Euclidean spaces"
+              href: solicited3a.html
+            - text: "B.	Functional Data Analysis in Action"
+              href: solicited3b.html
+            - text: "C.	Bayesian Inference for Graphical Models"
+              href: solicited3c.html
+        
 output:
   html_document:
     theme: flatly
     highlight: pygments
     df_print: kable
-    toc: true
-    toc_float: true
+    toc: false
+    toc_float: false
     toc_depth: 2
     include:
       after_body: footer.html

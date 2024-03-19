@@ -1,0 +1,55 @@
+---
+pagetitle: "08:40 / 09:50 - Contributed - C6"
+---
+
+
+<br>
+
+
+# TBA  {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Chair: TBA
+
+<br>
+
+## OSILA (Order Statistics In Large Arrays): an original algorithm for an efficient attainment of the order statistics
+***
+#### *Andrea Cerasa*
+
+<br>
+
+**Abstract:** We describe the main features and empirical results of OSILA, an original approach for efficiently finding the $k^{th}$ smallest element in an array. The algorithm’s iterative framework and simple idea provide a fast solution for the selection problem, especially suitable for large datasets.
+
+Click [here]() to view the abstract.
+
+## The Mallows model with respondents’ covariates for the analysis of preference rankings
+***
+#### *Marta Crispino, Lucia Modugno and Cristina Mollica*
+
+<br>
+
+**Abstract:** We propose an extension of the Mallows model with Spearman distance, able to incorporate respondents’ covariates into the analysis of preference rankings. This is achieved by using the framework of mixtures of experts, that is, mixture models in which the parameters are functions of covariates. In particular, we postulate that the probability of each unit to belong to a given cluster is linked to its concomitant covariate values via a generalized linear model. Maximum likelihood estimation is achieved by means of a hybrid iterative procedure combining the Expectation-Maximization and Minorization-Maximization algorithms.
+
+Click [here]() to view the abstract.
+
+## Value-Based Predictors of Voting Intentions: An Empirical and Explainable approach
+***
+#### *Luca Pennella and Amin Gino Fabbrucci Barbagli*
+
+<br>
+
+**Abstract:** This paper enhances the predictive understanding of Italian voting intentions by integrating demographic and value-based variables. While demographic factors are established predictors, our emphasis lies in examining the impact of specific values, such as attitudes towards globalization and drug legalization. The analysis is based on data from the annual SWG and Racheal Monitoring Survey, which includes responses from 1,500 Italian adults over the years 2017-2019. Beyond traditional demographic predictors, the study extends its focus to value-based variables. By combining these two dimensions, we seek to elucidate the factors influencing Italian voting intentions. This contributes to the broader discussion on political prediction modelling, employing Tree-ensemble methods and Explainable Artificial Intelligence.
+
+Click [here]() to view the abstract.
+
+## A dynamic version of the Massey's rating system with an application in basketball
+***
+#### *Paolo Vidoni and Enrico Bozzo*
+
+<br>
+
+**Abstract:** This paper proposes a flexible, dynamic extension of the popular Massey’s method for rating players and teams involved in sports competitions. The original Massey’s approach is static since the computation of a team rating is based on the strength of the opponent teams evaluated at the current time. The proposed dynamic extension updates the team rating considering the strength of the opponent teams evaluated at the time when the matches were played. An application of the new rating procedure to the Euroleague Basketball 2018-2019 is presented.
+
+Click [here]() to view the abstract.

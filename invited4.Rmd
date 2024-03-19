@@ -1,0 +1,56 @@
+---
+pagetitle: "15:40 / 16:50 - Invited 4"
+---
+
+
+<br>
+
+
+# Data science and dataspaces: challenges, results, and next steps {#buttons .tabset .tabset-fade .tabset-pills}
+
+<br>
+
+### Organizer: Claudio Ardagna
+### Discussant: TBA
+
+<br>
+
+## Data-Centric AI : A new Frontier emerging in Data Science
+***
+#### *Donato Malerba, Vincenzo Pasquadibisceglie, Vito Recchia and Annalisa Appice*
+
+<br>
+
+**Abstract:** Artificial Intelligence (AI) has historically relied on two key elements: data and algorithms. However, the traditional Model-Centric AI paradigm has typi- cally emphasized algorithms, often handling data as static entities. Data are typically gathered, pre-processed, and kept unchanged, with significant efforts focused on re- fining learned models. This conventional approach has led to the development of increasingly complex and opaque decision models, requiring substantial effort in data training. On the other hand, the emerging Data-Centric AI (DCAI) paradigm focuses on the systematic and algorithmic generation of optimal data to fuel Ma- chine Learning (ML) and Deep Learning (DL) techniques. The primary aim of the DCAI paradigm is to improve data quality, thereby achieving model accuracy deemed unattainable levels through model-centric techniques alone. This paper investigates the transformative effects of recent advancements in the DCAI paradigm on the future use of AI, ML and DL in data science. The objective is to inspire fur- ther innovations in DCAI research, ultimately influencing the future landscape of in data science applications.
+
+Click [here]() to view the abstract.
+
+## Data Spaces strategy to unleash agriculture data value: a concrete use case
+***
+#### *Nicola Masi, Delia Milazzo, Giulia Antonucci and Susanna Bonura*
+
+<br>
+
+**Abstract:** In order to ensure that all actors in the European agricultural sector can improve the sustainability and profitability of their operations while addressing issues such as food security and climate change, the European Commission is committed to create an international Data Space aimed at creating a virtual environment in which public and private agricultural data converge, simplifying interconnections between stakeholders and promoting interoperability between different applications and stakeholders in the agricultural sector. In this paper the International Data Space Association’s Reference Architecture Model is presented together with its concrete implementation within a running research initiative in the smart and sustainable agriculture context.
+
+Click [here]() to view the abstract.
+
+## Addressing Agricultural Data Management Challenges with the Enhanced TRUE Connector
+***
+#### *Sergio Comella, Delia Milazzo, Mattia Giuseppe Marzano, Giulia Antonucci, Susanna Bonura and Angelo Marguglio*
+
+<br>
+
+**Abstract:** This paper addresses the challenge of interoperability in agricultural data management and proposes the TRUE Connector as an enhanced solution to enable agricultural data spaces ecosystem. Interoperability barriers resulting from incompatible digital platforms and privacy concerns hinder effective data sharing in agriculture. The study presents the TRUE Connector, supported by adherence to the Data Space Protocol, as a transformative solution. By this integration, the agricultural sector can achieve seamless data exchange while maintaining data sovereignty and complying with European regulations. This innovative approach promises to improve economic and environmental performance, paving the way for a more efficient and sustainable agricultural future.
+
+Click [here]() to view the abstract.
+
+## Artificial Intelligence in Medical Imaging: the Role of the European Health Data Space
+***
+#### *Roberto Pirrone*
+
+<br>
+
+**Abstract:** The European Health Data Space (EHDS) promises to be the digital place where EU citizens will rule their health data properly. EHDS will ensure privacy, interoperability between national sanitary systems, and a secure access to data for all the involved stakeholders. Finally, also medical research and AI training seem to be allowed, but the debate is intense on this points, and the EHDS Regulation is far from being approved. On the other hand, AI integration in the clinical practice could give rise to a new generation of Medical Decision Support Systems (MDSS) that in turn will provide people with innovative health services that are one of the main goals the EHDS is intended for. This paper focuses on AI-based MDSS for images, reports some experiences in this research field, and outlines some points that could be addressed in the EHDS Regulation to allow for training huge AIs.
+
+Click [here]() to view the abstract.
