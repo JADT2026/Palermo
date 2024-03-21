@@ -12,6 +12,8 @@ navbar:
     - text: "Program"
       icon: fa-bars
       menu:
+        - text: "Conference program"
+          href: program.html
         - text: "Day 1 - Thursday, 11th April"
           menu:
           - text: "09:00 / 09:30 - Welcome"
