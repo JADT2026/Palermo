@@ -9,12 +9,17 @@ navbar:
     - text: "About"
       icon: fa-info-circle
       href: about.html
+    - text: "Registration"
+      icon: fa-address-card-o
+      href: https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024/schedConf/registration
     - text: "Program"
       icon: fa-bars
       menu:
         - text: "Conference program"
+          icon: fa-book
           href: program.html
         - text: "Day 1 - Thursday, 11th April"
+          icon: fa-calendar
           menu:
           - text: "09:00 / 09:30 - Welcome"
             href: welcome.html
@@ -43,6 +48,7 @@ navbar:
             - text: "C7"
               href: contributed7.html
         - text: "Day 2 - Friday, 12th April"
+          icon: fa-calendar
           menu:
           - text: "08:40 / 09:50 - Contributed"
             menu:
