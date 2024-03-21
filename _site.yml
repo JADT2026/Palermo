@@ -14,6 +14,8 @@ navbar:
       menu:
         - text: "Day 1 - Thursday, 11th April"
           menu:
+          - text: "09:00 / 09:30 - Welcome"
+            href: welcome.html
           - text: "09:30 / 10:30 - Key Note 1"
             href: keynote1.html
           - text: "10:50 / 12:05 - Invited 1"
