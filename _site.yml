@@ -35,9 +35,7 @@ navbar:
               href: solicited1b.html
             - text: "C.	Young SIS"
               href: solicited1c.html
-          - text: "16:35 / 17:50 - Invited 4"
-            href: invited4.html
-          - text: "17:50 / 19:00 - Contributed"
+          - text: "17:20 / 18:30 - Contributed"
             menu:
             - text: "C1"
               href: contributed1.html
