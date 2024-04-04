@@ -83,14 +83,14 @@ navbar:
         
 output:
   html_document:
-    theme: flatly
-    highlight: pygments
+    theme: cerulean #cerulean, united, cosmo, simplex
+    highlight: tango
     df_print: kable
     toc: false
     toc_float: false
     toc_depth: 2
     include:
       after_body: footer.html
-      in_header: header.html
-    css: style.css
+      #in_header: header.html
+    #css: style.css
     self_contained: true
