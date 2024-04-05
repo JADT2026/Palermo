@@ -35,6 +35,8 @@ navbar:
               href: solicited1b.html
             - text: "C.	Young SIS"
               href: solicited1c.html
+          - text: "14:40 / 16:00 - Round Table 1"
+            href: roundtable1.html
           - text: "17:20 / 18:30 - Contributed"
             menu:
             - text: "C1"
@@ -45,6 +47,8 @@ navbar:
               href: contributed3.html
             - text: "C7"
               href: contributed7.html
+          - text: "20:30 - Gala Dinner"
+            href: galadinner.html
         - text: "Day 2 - Friday, 12th April"
           icon: fa-calendar
           menu:
@@ -62,6 +66,8 @@ navbar:
             href: keynote2.html
           - text: "11:15 / 12:30 - Invited 3"
             href: invited3.html
+          - text: "12:30 / 13:30 - Round Table 2"
+            href: roundtable2.html
           - text: "14:30 / 15:40 - Solicited 2"
             menu:
             - text: "A. From Data Analysis to Data Science"
@@ -83,7 +89,7 @@ navbar:
         
 output:
   html_document:
-    theme: cerulean #cerulean, united, cosmo, simplex
+    theme: cerulean #cerulean, united, cosmo, simplex, paper, yeti, readable
     highlight: tango
     df_print: kable
     toc: false
@@ -91,6 +97,6 @@ output:
     toc_depth: 2
     include:
       after_body: footer.html
-      #in_header: header.html
-    #css: style.css
+      in_header: header.html
+    css: style.css
     self_contained: true
