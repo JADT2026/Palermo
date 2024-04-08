@@ -9,6 +9,9 @@ navbar:
     - text: "About"
       icon: fa-info-circle
       href: about.html
+    - text: "Venue"
+      icon: fa-map-marker
+      href: venue.html
     - text: "Registration"
       icon: fa-address-card-o
       href: https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024/schedConf/registration
