@@ -67,7 +67,7 @@ navbar:
               href: contributed8.html
           - text: "09:55 / 10:55 - Key Note 2"
             href: keynote2.html
-          - text: "11:15 / 12:30 - Invited 3"
+          - text: "11:15 / 12:30 - Invited 2"
             href: invited3.html
           - text: "12:30 / 13:30 - Round Table 2"
             href: roundtable2.html
@@ -79,7 +79,7 @@ navbar:
               href: solicited2b.html
             - text: "C.	Quantum neouromorphic approaches to data analysis and inference"
               href: solicited2c.html
-          - text: "15:40 / 16:50 - Invited 2"
+          - text: "15:40 / 16:50 - Invited 3"
             href: invited2.html
           - text: "16:50 / 18:05 - Solicited 3"
             menu:
