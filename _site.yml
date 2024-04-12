@@ -13,7 +13,7 @@ navbar:
       icon: fa-map-marker
       href: venue.html
     - text: "Gallery"
-      icon: fa-picture-oa
+      icon: fa-picture-o
       href: gallery.html
     - text: "Registration"
       icon: fa-address-card-o
@@ -97,7 +97,6 @@ output:
   html_document:
     theme: cerulean #cerulean, united, cosmo, simplex, paper, yeti, readable
     highlight: tango
-    df_print: kable
     toc: false
     toc_float: false
     toc_depth: 2
@@ -106,3 +105,4 @@ output:
       in_header: header.html
     css: style.css
     self_contained: true
+    
