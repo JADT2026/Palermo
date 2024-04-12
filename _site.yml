@@ -12,6 +12,9 @@ navbar:
     - text: "Venue"
       icon: fa-map-marker
       href: venue.html
+    - text: "Gallery"
+      icon: fa-picture-oa
+      href: gallery.html
     - text: "Registration"
       icon: fa-address-card-o
       href: https://meetings3.sis-statistica.org/index.php/sds2024/SDS_2024/schedConf/registration

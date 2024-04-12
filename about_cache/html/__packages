@@ -5,3 +5,8 @@ utils
 grDevices
 graphics
 stats
+dplyr
+lubridate
+png
+grid
+jpeg
