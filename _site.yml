@@ -9,6 +9,9 @@ navbar:
     - text: "About"
       icon: fa-info-circle
       href: about.html
+    - text: "Special Issue"
+      icon: fa-file-text
+      href: specialissue.html
     - text: "Venue"
       icon: fa-map-marker
       href: venue.html
